@@ -1,0 +1,140 @@
+
+    * {
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      margin: 51px 233px;
+      
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+      font-family: Arial, sans-serif;
+    }
+    .blue {
+      border: 2px solid rgb(19, 19, 73);
+      margin: 2px;
+      flex-grow: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+    .green {
+      border: 3px solid green;
+      margin: 9px;
+      flex-grow: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+    .jutSemRegistrationNo {
+      display: flex;
+      justify-content: flex-end;
+      padding: 4px;
+      margin-top: 6px;
+      margin-bottom: 10px;
+      text-transform: uppercase;
+    }
+    .logoTittle {
+      display: inline-flex;
+    }
+    img {
+      width: 100%;
+    }
+    .logo {
+      width: 89px;
+      padding-left: 12px;
+    }
+    .tittle {
+      color: darkgreen;
+      
+      text-transform: uppercase;
+      font-size: 24px;
+      padding-left: 61px;
+      padding-top: 18px;
+      font-weight: bolder;
+      text-align: center;
+    }
+    .tittle span {
+      color: darkblue;
+    }
+    .semester {
+      text-transform: uppercase;
+      font-size: 15px;
+      padding: 5px;
+      text-align: center;
+    }
+    .detailsOfStudent {
+      padding-left: 42px;
+      text-transform: uppercase;
+      line-height: 31px;
+      margin-bottom: 15px;
+    }
+    table {
+      margin: 5px;
+      width: calc(100% - 10px);
+      border-collapse: collapse;
+    }
+    table, th, td {
+      border: 1px solid black;
+      text-transform: uppercase;
+    }
+    th, td {
+      padding: 6px;
+      text-align: center;
+    }
+    th {
+      background-color: #f2f2f2;
+    }
+    .gradePerformance {
+      padding-left: 40px;
+      font-weight: 700;
+      padding-bottom: 20px;
+    }
+    .marks {
+      padding-left: 42px;
+      margin: 11.5px;
+    }
+    /* .marksOfGrade {
+      font-weight: 700;
+      padding-left: 41px;
+      display: grid;
+      grid-template-columns: 205px 116px 96px;
+      column-gap: 15px;
+      row-gap: 15px;
+    }
+    .marksOfGrade span {
+      padding-right: 14px;
+    } 
+      */
+    .conversion {
+      padding: 40px;
+      font-weight: 700;
+    }
+    .footer {
+      display: flex;
+      justify-content: space-between;
+      padding: 10px 40px;
+      border-top: 1px solid #000;
+    }
+    .marksOfGrade table tr td {
+      border:none;
+    }
+
+
+
+
+    @page {
+      size: A4;
+      margin: 20mm;
+    }
+    @media print {
+      body {
+        margin: 0;
+      }
+      .footer {
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+      }
+    }

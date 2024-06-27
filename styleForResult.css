@@ -1,0 +1,110 @@
+
+*{
+  margin:0%;
+  padding:0%;
+}
+body{
+  margin:20px;
+
+}
+
+.blue{
+  border:2px solid rgb(19, 19, 73);
+  margin:2px;
+  height:140%;
+}
+.green{
+  border:3px solid green;;
+  margin:9px;
+  height:140%;
+}
+.jutSemRegistrationNo{
+  display: flex;
+  justify-content: flex-end;
+  padding:4px;
+  margin-top:6px;
+  margin-bottom:10px;
+  text-transform:uppercase;
+}
+.logoTittle{
+  display: inline-flex;
+
+}
+img{
+  width:100%;
+}
+.logo{
+  width:89px;
+  padding-left:12px;
+  
+}
+.tittle{
+  color: darkgreen;
+  letter-spacing: 6px;
+  word-spacing: 11px;
+  text-transform: uppercase;
+  font-size: 24px;
+  padding-left: 61px;
+  padding-top: 18px;
+  font-weight: bolder;
+  text-align: center;
+
+}
+.tittle span{
+  color :darkblue;
+}
+.semester{
+  text-transform: uppercase;
+  font-size:15px;
+  padding:5px;
+  text-align: center;
+}
+.detailsOfStudent{
+  padding-left: 42px;
+  text-transform: uppercase;
+  line-height: 31px;
+  margin-bottom:15px;
+}
+table{
+  margin:5px;
+  position: relative;
+    /* top: 94%; */
+    left: -21px;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-transform: uppercase;
+
+}
+.gradePerformance{
+  padding-left:40px;
+  font-weight: 700;
+  padding-bottom:20px;
+}
+.marks{
+  padding-left:42px;
+  margin:11.5px;
+}
+.marksOfGrade{
+  font-weight: 700;
+  padding-left :41px;
+  display: grid;
+    grid-template-columns: 205px 116px 96px;
+    column-gap:15px;
+    row-gap:15px;
+}
+.marksOfGrade span{
+  padding-right: 14px;
+}
+.conversion{
+  padding:40px;
+  font-weight: 700;
+}
+.footer{
+  display: flex;
+  justify-content: space-between;
+  /* position:relative;
+  top:297px; */
+
+}
