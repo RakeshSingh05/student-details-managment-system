@@ -5,7 +5,7 @@ This project is just a basic user-friendly online management system so everyone 
 
 # Home Page
 This is the first Page appear at the first opening of the website which contains the details about the course and our faculity members.
-<img src = "https://tinyurl.com/5h8wu3ry" alt="HOME PAGE">
+<img src = "https://github.com/RakeshSingh05/student-details-managment-system/blob/main/Assets%20of%20Student%20Detail%20Management%20System/Screenshot%202025-07-11%20121452.png" alt="HOME PAGE">
 
 
 
