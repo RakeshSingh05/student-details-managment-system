@@ -4,5 +4,8 @@ Student Management System is software which is helpful for students as well as t
 This project is just a basic user-friendly online management system so everyone can have the experience of a management system and get comfortable using basic functions, which will help them using some advanced systems.
 
 # Home Page
+This is the first Page appear at the first opening of the website which contains the details about the course and our faculity members.
+<img src = "https://tinyurl.com/5h8wu3ry" alt="HOME PAGE">
+
 
 
