@@ -22,7 +22,9 @@ After that user will Login if they have a account or will SignUp if they don't h
 <img src ="https://github.com/RakeshSingh05/student-details-managment-system/blob/main/Assets%20of%20Student%20Detail%20Management%20System/Screenshot%202025-07-11%20122224.png" alt ="SignUP">
 
 <img src ="https://github.com/RakeshSingh05/student-details-managment-system/blob/main/Assets%20of%20Student%20Detail%20Management%20System/Screenshot%202025-07-11%20122205.png" alt ="SignUP">
-This section mainly consist of two modules 
+
+## This section mainly consist of two modules 
+
 - User Section
   - Admin login
   - User login
