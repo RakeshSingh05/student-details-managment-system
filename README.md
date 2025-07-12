@@ -1,5 +1,8 @@
 # student-details-managment-system
 Student Management System is software which is helpful for students as well as the school authorities. In the current systern all the activities are done manually. It is very time consuming and costly. Our Student Management System deals with the various activities related to the students .
+
 This project is just a basic user-friendly online management system so everyone can have the experience of a management system and get comfortable using basic functions, which will help them using some advanced systems.
 
-#Home Page
+# Home Page
+
+
